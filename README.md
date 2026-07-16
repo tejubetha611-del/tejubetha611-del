@@ -23,11 +23,6 @@
 - HackerRank SQL (Advanced) – Verified
 - HackerRank Java (Basic) – Verified
 
-## 📂 Projects
-
-- Retail Sales Forecasting & Business Analytics
-- Employee Attrition Prediction
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/tulasi-durga-betha-808855374
